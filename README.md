@@ -7,7 +7,7 @@
 * __Prodi: Informatika(NK)__
 * __Kode Kelas: INF1.62.4001__
 * __Seksi: 202323430156__
-* __Dosen Pengampu: Randi Proska Sandra, M.Sc__
+* __Dosen Pengampu: Randi Proska Sandra, S.Pd, M.Sc__
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
